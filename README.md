@@ -2,6 +2,8 @@
 
 This GitHub Repository shows a demonstration of Eric Graham's Sculpt 3D ray tracing software from 1987, rendering a complex scene at very high resolutions, at 24 bits color depth.
 
+![Ijmage at 1440x1080](1440x1080/boing.png)
+
 ## The .scene file
 
 The .scene file can be loaded into Sculpt 3D to re-create the scenes. If the number of bit planes specified is 6 or below, an IFF ILBM image will be generated, if the number of bitplanes specified is higher, three raw channel files will be created at the specified bit depth (e.g. 24).
