@@ -1,8 +1,7 @@
-*.r binary
-*.g binary
-*.b binary
+*.r binary linguist-detectable=false
+*.g binary linguist-detectable=false
+*.b binary linguist-detectable=false
 *.ras binary
 *.png binary
 *.scene binary
 *.iff binary
-
